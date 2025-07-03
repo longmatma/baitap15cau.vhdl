@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/bai15_JK.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bai_15'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/tb_bai15_JK.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_bai_15'

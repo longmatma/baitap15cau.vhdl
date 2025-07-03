@@ -1,0 +1,33 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../D_FF.vhd" \
+"../../../../../bai9_D_FF.vhd" \
+"../../../../../T_FF.vhd" \
+"../../../../../bai8_T_FF.vhd" \
+"../../../../../bai7_T_FF.vhd" \
+"../../../../../JK_FF.vhd" \
+"../../../../../project_1/project_1.srcs/sources_1/new/bai_1.vhd" \
+"../../../../../bai_2.vhd" \
+"../../../../../project_3/project_3.srcs/sources_1/new/bai_3.vhd" \
+"../../../../../project_4/project_5.srcs/sources_1/new/bai_4.vhd" \
+"../../../../../bai_5.vhd" \
+"../../../../../bai10_JK_FF.vhd" \
+"../../../../../bai11_JK_FF.vhd" \
+"../../../../../Bai_12.vhd" \
+"../../../../../bai13_T_FF.vhd" \
+"../../../../../project_3/project_3.srcs/sim_1/new/tb_bai3.vhd" \
+"../../../../../tb_bai7.vhd" \
+"../../../../../tb_bai8.vhd" \
+"../../../../../tb_bai9.vhd" \
+"../../../../../project_1/project_1.srcs/sim_1/new/tb_bai_1.vhd" \
+"../../../../../tb_bai_2.vhd" \
+"../../../../../project_3/project_3.srcs/sim_1/new/tb_bai_3.vhd" \
+"../../../../../project_4/project_5.srcs/sim_1/new/tb_bai_4.vhd" \
+"../../../../../tb_bai_5.vhd" \
+"../../../../../tb_bai10.vhd" \
+"../../../../../tb_bai11.vhd" \
+"../../../../../tb_Bai12.vhd" \
+"../../../../../tb_bai13.vhd" \
+
+# Do not sort compile order
+nosort
